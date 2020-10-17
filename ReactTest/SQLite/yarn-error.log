@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.4/libexec/bin/yarn.js add react-native --exact
+
+PATH: 
+  /Applications/XAMPP/xamppfiles/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/arnawaos/Library/Android/sdk/emulator:/Users/arnawaos/Library/Android/sdk/tools:/Users/arnawaos/Library/Android/sdk/tools/bin:/Users/arnawaos/Library/Android/sdk/platform-tools:/Users/arnawaos/.composer/vendor/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.14.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/dayjs/-/dayjs-1.9.1.tgz: ENOSPC: no space left on device, write
+
+npm manifest: 
+  {"name":"SQLite","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"}}
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
